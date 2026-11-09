@@ -1,0 +1,7 @@
+# Claude & Anthropic Ruleset
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN,claude.ai
+DOMAIN,api.anthropic.com
+DOMAIN,cdn.usefathom.com

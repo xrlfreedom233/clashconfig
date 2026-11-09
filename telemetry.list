@@ -1,0 +1,9 @@
+# Anti-Telemetry & Tracker Blocker
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,datadoghq.eu
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,growthbook.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,segment.com
